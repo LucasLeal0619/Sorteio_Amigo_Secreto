@@ -10,5 +10,5 @@ https://github.com/LucasLeal0619/Sorteio_Amigo_Secreto/blob/main/style.css
 ## Site do Projeto 
 file:///C:/Users/lucas/Documents/challenge-amigo-secreto_pt-main/index.html 
 
-## layout do amigo Secreto 
+## layouts do Site 
 ![amigo-secreto](https://github.com/LucasLeal0619/Sorteio_Amigo_Secreto/blob/main/assets/amigo-secreto.png)
