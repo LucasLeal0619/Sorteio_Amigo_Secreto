@@ -5,3 +5,4 @@ O objetivo desse projeto é fazer um sorteio de Amigos onde o usuário digita o 
 
 ##Código do Projeto 
 https://github.com/LucasLeal0619/Sorteio_Amigo_Secreto/blob/main/app.js
+https://github.com/LucasLeal0619/Sorteio_Amigo_Secreto/blob/main/index.html
